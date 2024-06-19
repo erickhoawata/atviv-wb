@@ -3,6 +3,7 @@
 <h2> Passo a Passo Para Executar o Projeto</h2>
  
 <h3>BackEnd</h3>
+
 - No CMD, digite:
 ```
 cd .\backend
@@ -17,9 +18,6 @@ npm start
  ```
   
 <h3>FrontEnd</h3>
- 
--Novo terminal
-
 - No CMD, digite:
 ```
 cd .\frontend
